@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jh4xsy
-- 👀 I’m interested in Ham Radio
+- Hi, This is JH4XSY, ham radio operator.
+- I’m running RBBS/openBCM and weather station/oww.
 
 [![My Skills](https://skillicons.dev/icons?i=ruby,fortran)](https://skillicons.dev)
 
